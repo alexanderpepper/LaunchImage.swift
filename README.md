@@ -5,5 +5,5 @@ Some iOS apps need to reuse the launch screen image in the app itself. These ima
 
 ### Usage
 ```swift
-let image = UIImage(named: LaunchImage.name()
-```)
+let image = UIImage(named: LaunchImage.name())
+```
